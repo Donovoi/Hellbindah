@@ -1,0 +1,17 @@
+build/
+out/
+.vs/
+.vscode/.browse.VC.db
+.vscode/ipch/
+*.user
+*.suo
+*.opensdf
+*.sdf
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.dll
+*.lib
+*.log
+.DS_Store
