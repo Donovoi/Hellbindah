@@ -1,0 +1,11 @@
+{
+  "build_passed": true,
+  "tests_passed": true,
+  "task_updated": true,
+  "kanban_updated": true,
+  "ip_review_passed": true,
+  "performance_not_regressed": true,
+  "small_reviewable_change": true,
+  "evidence_attached": true,
+  "flags": []
+}
